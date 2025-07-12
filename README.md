@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Lyderic. 
+
+I'm a product engineer currently experimenting with gov tech among other things! 
+
+I was formerly the CTO of Alphabet, a prediction market built on the Urbit OS.
+
 <!--
 **zaphodapriest/zaphodapriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
