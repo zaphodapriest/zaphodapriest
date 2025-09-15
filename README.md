@@ -1,6 +1,6 @@
 ## Hi there, I'm Lyderic 👋
 
-⚙️ I'm a product engineer currently experimenting with gov tech, among other things. I was formerly working on ~Urbit.
+⚙️ I'm a product engineer working on decentralized technologies
 
 <!--
 **zaphodapriest/zaphodapriest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
